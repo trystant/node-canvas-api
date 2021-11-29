@@ -34,6 +34,7 @@ export { default as showCustomGradebookColumnsByName } from './showCustomGradebo
 export { default as checkProgressStatus } from './checkProgressStatus'
 export { default as getOptions } from './internal/getOptions'
 export { default as getUser } from './getUser'
+export { default as getUserDetail } from './getUserDetail'
 export { default as getRubricsInCourse } from './getRubricsInCourse'
 export { default as getRubric } from './getRubric'
 export { default as getAssignmentSubmissions } from './getAssignmentSubmissions'
